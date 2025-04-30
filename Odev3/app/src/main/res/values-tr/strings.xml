@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Iletişimi koparma"</string>
+    <string name="Title">Sosyal Ağ</string>
+    <string name="Button">Hadi Başlayalım</string>
+    <string name="accountConsfirmation">Bir hesabın yok mu?</string>
+    <string name="signIn">Hesap oluştur</string>
+
+</resources>

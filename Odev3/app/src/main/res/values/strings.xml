@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Keep in Touch</string>
+    <string name="Title">Social Network</string>
+    <string name="Button">Let\'s Go</string>
+    <string name="accountConsfirmation">Don\'t have an account?</string>
+    <string name="signIn">Sign In</string>
+
+</resources>
