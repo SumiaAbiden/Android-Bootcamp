@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\a44a482d7e6b45f2e6f2becadce63f92\transformed\viewbinding-8.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7bd28a05d8fb1785bf80bd54e23987f2\transformed\navigation-common-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\a8bcbc40ffdafb36a88f7849de5a7e60\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7f1646c04b6ea9f1bcd02748abc6ab15\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0689b957bd913179afdc4269a45bf4a7\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ce52aa3e0da5af69a23a9d21a3171685\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\4d8adba525124033f6fdc8e2093b5c63\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6a60fe2c8ad3e5a5ad7706bed4d38bbe\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f3be607a2a3f430abdf68399b4a6d94b\transformed\navigation-ui-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7ef90dab40983499b0bffe35d3b7dcf8\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\166d585603ecffc3a511a31caf41f989\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ef599108a1dff94acb700e42ea40b2f9\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\eed2b5888917261a43d1f86bca09bc7c\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fff7dfba4d392f82a59d6281c2b312e8\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\aa2ff67db16a0652a4b49cb097d1dcbc\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7d960ed4b69facd4c54d2f3ae66408fe\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\825e0a802c6ceb221fa9cc203b84daf3\transformed\activity-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0800be2483112115a09bf3594abc6867\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0a091f89f7316d7fb067884b352be6b1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\627e48d9e27c9c2c15306f6a727ca78e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ed971cbe258946b5246a7a8192676e8a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d715127977d92a623e5ac3df3173d34d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\5b6fc7a90d94dc51e9ae97fb4d65fe5b\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\dd6081895514f895243dfa7fefd0e97b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\960498b2f57e958b99ddc082d1a4c5ef\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c2c05ab3902d0a8cb5b030d8d19377a2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f3ead77d7e727f91df62fa254708f01b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\3b132949d40cd664ce8bcdd2ebd0257d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7f5c2d8842c598d9aaf82d340dc5bfb2\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\427cb57afd9d8a54c6d894f1818e0fcd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\deb67b728d9b254550c3c89cdd5e2a40\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6bccb20a25428c2b4eb10fcd2e6ae17d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\64a5e97f0a4d2f024514ceeddc256116\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\eb3c7e18841215f2989cb2588e692ed2\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\05c72a8c29c7eab7db5daea4b2981044\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6433b31ae834444d8c9780a0c9158c4e\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fc0641009e5c2416b506203d15fab5d3\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\030707c0cc9ce8652fe2555fa862a279\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f74b72c5269d42bd54467040dc936757\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\8a45dff00b39679878a88eaf3f65a52f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\74e7faeb75b73a8dbf49d9119b147b36\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\43874420ea18d1dff8c8cd4392f00ef9\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\2eccd6bb9424bf2905d00227bbefd7bc\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d0c7f3042ef346d69e23699878479342\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\5bb49e4461395ade497b2c15535a0b03\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\11fe2e5490256282f3791e3a2dd9b0d3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\88393fbd6127e0da1c62836a611c3997\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\b5b264fda26540b95b21ba7c2e3adef5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\b10ba85c1c277c0ce0e8bd779da6fec8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d68f08b8db07b43d21186176692d322c\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6a5aea74dc3818e69225d2a58f3c4456\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\79aa0beb824ae026caf6853272b73df3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6993d70ef9ae62c07453b43e7da73ad1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fcc2e520d9d40e3e40690706711661a3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:5:5-24:19
+INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7ef90dab40983499b0bffe35d3b7dcf8\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7ef90dab40983499b0bffe35d3b7dcf8\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\166d585603ecffc3a511a31caf41f989\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\166d585603ecffc3a511a31caf41f989\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\11fe2e5490256282f3791e3a2dd9b0d3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\11fe2e5490256282f3791e3a2dd9b0d3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\b10ba85c1c277c0ce0e8bd779da6fec8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\b10ba85c1c277c0ce0e8bd779da6fec8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:13:9-43
+	android:dataExtractionRules
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.sumia.odev4.MainActivity
+ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml
+INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\a44a482d7e6b45f2e6f2becadce63f92\transformed\viewbinding-8.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.8.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\a44a482d7e6b45f2e6f2becadce63f92\transformed\viewbinding-8.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7bd28a05d8fb1785bf80bd54e23987f2\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7bd28a05d8fb1785bf80bd54e23987f2\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\a8bcbc40ffdafb36a88f7849de5a7e60\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\a8bcbc40ffdafb36a88f7849de5a7e60\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7f1646c04b6ea9f1bcd02748abc6ab15\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7f1646c04b6ea9f1bcd02748abc6ab15\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0689b957bd913179afdc4269a45bf4a7\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0689b957bd913179afdc4269a45bf4a7\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ce52aa3e0da5af69a23a9d21a3171685\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ce52aa3e0da5af69a23a9d21a3171685\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\4d8adba525124033f6fdc8e2093b5c63\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\4d8adba525124033f6fdc8e2093b5c63\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6a60fe2c8ad3e5a5ad7706bed4d38bbe\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6a60fe2c8ad3e5a5ad7706bed4d38bbe\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f3be607a2a3f430abdf68399b4a6d94b\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f3be607a2a3f430abdf68399b4a6d94b\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7ef90dab40983499b0bffe35d3b7dcf8\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7ef90dab40983499b0bffe35d3b7dcf8\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\166d585603ecffc3a511a31caf41f989\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\166d585603ecffc3a511a31caf41f989\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ef599108a1dff94acb700e42ea40b2f9\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ef599108a1dff94acb700e42ea40b2f9\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\eed2b5888917261a43d1f86bca09bc7c\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\eed2b5888917261a43d1f86bca09bc7c\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fff7dfba4d392f82a59d6281c2b312e8\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fff7dfba4d392f82a59d6281c2b312e8\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\aa2ff67db16a0652a4b49cb097d1dcbc\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\aa2ff67db16a0652a4b49cb097d1dcbc\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7d960ed4b69facd4c54d2f3ae66408fe\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7d960ed4b69facd4c54d2f3ae66408fe\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\825e0a802c6ceb221fa9cc203b84daf3\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\825e0a802c6ceb221fa9cc203b84daf3\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0800be2483112115a09bf3594abc6867\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0800be2483112115a09bf3594abc6867\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0a091f89f7316d7fb067884b352be6b1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\0a091f89f7316d7fb067884b352be6b1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\627e48d9e27c9c2c15306f6a727ca78e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\627e48d9e27c9c2c15306f6a727ca78e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ed971cbe258946b5246a7a8192676e8a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\ed971cbe258946b5246a7a8192676e8a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d715127977d92a623e5ac3df3173d34d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d715127977d92a623e5ac3df3173d34d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\5b6fc7a90d94dc51e9ae97fb4d65fe5b\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\5b6fc7a90d94dc51e9ae97fb4d65fe5b\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\dd6081895514f895243dfa7fefd0e97b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\dd6081895514f895243dfa7fefd0e97b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\960498b2f57e958b99ddc082d1a4c5ef\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\960498b2f57e958b99ddc082d1a4c5ef\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c2c05ab3902d0a8cb5b030d8d19377a2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c2c05ab3902d0a8cb5b030d8d19377a2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f3ead77d7e727f91df62fa254708f01b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f3ead77d7e727f91df62fa254708f01b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\3b132949d40cd664ce8bcdd2ebd0257d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\3b132949d40cd664ce8bcdd2ebd0257d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7f5c2d8842c598d9aaf82d340dc5bfb2\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\7f5c2d8842c598d9aaf82d340dc5bfb2\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\427cb57afd9d8a54c6d894f1818e0fcd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\427cb57afd9d8a54c6d894f1818e0fcd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\deb67b728d9b254550c3c89cdd5e2a40\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\deb67b728d9b254550c3c89cdd5e2a40\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6bccb20a25428c2b4eb10fcd2e6ae17d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6bccb20a25428c2b4eb10fcd2e6ae17d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\64a5e97f0a4d2f024514ceeddc256116\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\64a5e97f0a4d2f024514ceeddc256116\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\eb3c7e18841215f2989cb2588e692ed2\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\eb3c7e18841215f2989cb2588e692ed2\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\05c72a8c29c7eab7db5daea4b2981044\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\05c72a8c29c7eab7db5daea4b2981044\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6433b31ae834444d8c9780a0c9158c4e\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6433b31ae834444d8c9780a0c9158c4e\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fc0641009e5c2416b506203d15fab5d3\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fc0641009e5c2416b506203d15fab5d3\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\030707c0cc9ce8652fe2555fa862a279\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\030707c0cc9ce8652fe2555fa862a279\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f74b72c5269d42bd54467040dc936757\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\f74b72c5269d42bd54467040dc936757\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\8a45dff00b39679878a88eaf3f65a52f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\8a45dff00b39679878a88eaf3f65a52f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\74e7faeb75b73a8dbf49d9119b147b36\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\74e7faeb75b73a8dbf49d9119b147b36\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\43874420ea18d1dff8c8cd4392f00ef9\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\43874420ea18d1dff8c8cd4392f00ef9\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\2eccd6bb9424bf2905d00227bbefd7bc\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\2eccd6bb9424bf2905d00227bbefd7bc\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d0c7f3042ef346d69e23699878479342\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d0c7f3042ef346d69e23699878479342\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\5bb49e4461395ade497b2c15535a0b03\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\5bb49e4461395ade497b2c15535a0b03\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\11fe2e5490256282f3791e3a2dd9b0d3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\11fe2e5490256282f3791e3a2dd9b0d3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\88393fbd6127e0da1c62836a611c3997\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\88393fbd6127e0da1c62836a611c3997\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\b5b264fda26540b95b21ba7c2e3adef5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\b5b264fda26540b95b21ba7c2e3adef5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\b10ba85c1c277c0ce0e8bd779da6fec8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\b10ba85c1c277c0ce0e8bd779da6fec8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d68f08b8db07b43d21186176692d322c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\d68f08b8db07b43d21186176692d322c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6a5aea74dc3818e69225d2a58f3c4456\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6a5aea74dc3818e69225d2a58f3c4456\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\79aa0beb824ae026caf6853272b73df3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\79aa0beb824ae026caf6853272b73df3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6993d70ef9ae62c07453b43e7da73ad1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\6993d70ef9ae62c07453b43e7da73ad1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fcc2e520d9d40e3e40690706711661a3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\fcc2e520d9d40e3e40690706711661a3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android_bootcamp\Odev4\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\11fe2e5490256282f3791e3a2dd9b0d3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\11fe2e5490256282f3791e3a2dd9b0d3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\22814c3a0de03fd00c37624ad2835c16\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\de27668371cda59d8ed2f80cddd27535\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.sumia.odev4.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.sumia.odev4.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\52ab5ac48e6ad76d59026d336885f420\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\c97d11c94e1500d4158cbd8ffd09dad7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\abiden.sumia\.gradle\caches\8.10.2\transforms\bf674ed375d3173557940627e7cacf6a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
