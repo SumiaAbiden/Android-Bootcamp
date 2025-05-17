@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Odev6" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Renk ayarları -->
+        <item name="colorPrimary">@color/trendyol</item>
+        <item name="colorPrimaryVariant">@color/trendyol</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- 🔽 Status bar rengi -->
+        <item name="android:statusBarColor">@color/trendyol</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+
+    <style name="Theme.Odev6" parent="Base.Theme.Odev6" />
+</resources>
