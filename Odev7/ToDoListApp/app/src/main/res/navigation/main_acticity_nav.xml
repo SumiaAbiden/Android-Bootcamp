@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_acticity_nav"
+    app:startDestination="@id/anasayfaFragment2">
+    <fragment
+        android:id="@+id/detayFragment"
+        android:name="com.sumia.todolistapp.ui.fragments.DetayFragment"
+        android:label="fragment_detay"
+        tools:layout="@layout/fragment_detay" >
+        <argument
+            android:name="gorev"
+            app:argType="com.sumia.todolistapp.data.entity.Gorevler" />
+    </fragment>
+    <fragment
+        android:id="@+id/anasayfaFragment2"
+        android:name="com.sumia.todolistapp.ui.fragments.AnasayfaFragment"
+        android:label="fragment_anasayfa"
+        tools:layout="@layout/fragment_anasayfa" >
+        <action
+            android:id="@+id/detayGecis"
+            app:destination="@id/detayFragment" />
+        <action
+            android:id="@+id/ekleGecis"
+            app:destination="@id/ekleFragment3" />
+    </fragment>
+    <fragment
+        android:id="@+id/ekleFragment3"
+        android:name="com.sumia.todolistapp.ui.fragments.EkleFragment"
+        android:label="fragment_ekle"
+        tools:layout="@layout/fragment_ekle" />
+</navigation>
